@@ -1,4 +1,4 @@
-# 📊 Zomato Data Analytics Project  
+# 📊 Zomato Data Vision   
 
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql)  ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python)  ![Tableau](https://img.shields.io/badge/Visualization-Tableau-orange?logo=tableau)  ![Status](https://img.shields.io/badge/Project-Major%20Project-success)  
 
