@@ -48,8 +48,9 @@ Zomato_Data_Vision/
 
 ## 🗄️ Database Schema & ERD  
 Relational schema was built in **PostgreSQL** with proper constraints.  
+<img width="1036" height="920" alt="zomato_erd" src="https://github.com/user-attachments/assets/7831b135-ecdd-4598-a65e-f9145f7bb8c7" />
 
-![ERD](
+
 ---
 
 ## 🔎 Workflow  
