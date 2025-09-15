@@ -83,30 +83,29 @@ he following steps outline the end-to-end workflow for this project:
 Dashboards were created using **Orders, Menu, Restaurant, and Users tables**.  
 
 <p align="center">
-  <img src="https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis/blob/main/Images/Viz_1.png?raw=true" width="49%" />
-  <img src="https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis/blob/main/Images/Viz_3.png?raw=true" width="49%" />
-</p>  
-
+  <img src="https://github.com/tamsakarwa/zomato-data-vision-analysis/blob/main/Images/Viz_1.png?raw=true" alt="Visualization 1" width="49.5%" />
+  <img src="https://github.com/tamsakarwa/zomato-data-vision-analysis/blob/main/Images/Viz_3.png?raw=true" alt="Visualization 3" width="49%" />
+</p>
 
 Python was utilized for basic visualization of key columns. For instance, visualizations of cuisine or price groups were created using pie charts.
 <p align="center">
-  <img src="https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis/blob/main/Images/veg_vs_non_veg.png?raw=true" alt="Veg vs Non-Veg" width="30%" />
-  <img src="https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis/blob/main/Images/distribution_of%20_cuisine.png?raw=true" alt="Cuisine Distribution" width="35.09%" />
-  <img src="https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis/blob/main/Images/price_groups.png?raw=true" alt="Price Groups" width="31.32%" />
+  <img src="https://github.com/tamsakarwa/zomato-data-vision-analysis/blob/main/Images/veg_vs_non_veg.png?raw=true" alt="Veg vs Non-Veg" width="30%" />
+  <img src="https://github.com/tamsakarwa/zomato-data-vision-analysis/blob/main/Images/distribution_of%20_cuisine.png?raw=true" alt="Cuisine Distribution" width="35.09%" />
+  <img src="https://github.com/tamsakarwa/zomato-data-vision-analysis/blob/main/Images/price_groups.png?raw=true" alt="Price Groups" width="31.32%" />
 </p>
 
 For additional visualizations, such as price groups, restaurants, food items, order counts, and dates, vertical bar charts were employed.
 
 <p align="center">
-  <img src="https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis/blob/main/Images/price-groups_bar.png?raw=true" alt="Price Groups Bar" width="28.72%" />
-  <img src="https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis/blob/main/Images/top_20_f_id.png?raw=true" alt="Top 20 Food IDs" width="34.5%" />
-  <img src="https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis/blob/main/Images/top_20_r_id.png?raw=true" alt="Top 20 Restaurant IDs" width="34.5%" />
+  <img src="https://github.com/tamsakarwa/zomato-data-vision-analysis/blob/main/Images/price-groups_bar.png?raw=true" alt="Price Groups Bar" width="28.72%" />
+  <img src="https://github.com/tamsakarwa/zomato-data-vision-analysis/blob/main/Images/top_20_f_id.png?raw=true" alt="Top 20 Food IDs" width="34.5%" />
+  <img src="https://github.com/tamsakarwa/zomato-data-vision-analysis/blob/main/Images/top_20_r_id.png?raw=true" alt="Top 20 Restaurant IDs" width="34.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis/blob/main/Images/top_20_order_date.png?raw=true" alt="Top 20 Order Dates" width="32.5%" />
-  <img src="https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis/blob/main/Images/order_count_y_and_m.png?raw=true" alt="Order Count by Year and Month" width="38%" />
-  <img src="https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis/blob/main/Images/order_count_day.png?raw=true" alt="Order Count by Day" width="27%" />
+  <img src="https://github.com/tamsakarwa/zomato-data-vision-analysis/blob/main/Images/top_20_order_date.png?raw=true" alt="Top 20 Order Dates" width="32.5%" />
+  <img src="https://github.com/tamsakarwa/zomato-data-vision-analysis/blob/main/Images/order_count_y_and_m.png?raw=true" alt="Order Count by Year and Month" width="38%" />
+  <img src="https://github.com/tamsakarwa/zomato-data-vision-analysis/blob/main/Images/order_count_day.png?raw=true" alt="Order Count by Day" width="27%" />
 </p>
 
 
