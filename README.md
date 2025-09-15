@@ -35,7 +35,7 @@ The project demonstrates **how raw restaurant data is transformed into actionabl
 ---
 ## 📂 Folder Structure
 ```bash
-Zomato_Data_Analysis/
+Zomato_Data_Vision/
 │
 ├── Dataset/                                    # Contains raw CSV and ZIP files
 ├── Images/                                     # ERD, visualization, title images
@@ -49,8 +49,7 @@ Zomato_Data_Analysis/
 ## 🗄️ Database Schema & ERD  
 Relational schema was built in **PostgreSQL** with proper constraints.  
 
-![ERD](https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis/blob/main/Images/zomato_erd.png?raw=true)  
-
+![ERD](
 ---
 
 ## 🔎 Workflow  
