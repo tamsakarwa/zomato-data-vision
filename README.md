@@ -58,7 +58,7 @@ he following steps outline the end-to-end workflow for this project:
 
 - **SQL Table Formation** : Database schema is designed and SQL tables are created based on the structure of the CSV files using appropriate data types and primary keys.
 
-- **Data Upload (CSV Files)** : Raw datasets are imported into the respective SQL tables using COPY or \COPY commands (PostgreSQL) or relevant database import methods.
+- **Data Upload (CSV Files)** : Raw datasets are imported into the respective SQL tables.
 
 - **Data Cleaning** : Unnecessary nulls, duplicates, and inconsistencies are handled using SQL scripts to ensure data quality and integrity before analysis.
 
