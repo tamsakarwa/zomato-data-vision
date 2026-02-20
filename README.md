@@ -80,7 +80,7 @@ he following steps outline the end-to-end workflow for this project:
 
 ---
 
-## 📊 Tableau Dashboards  
+## 📊 Dashboards  
 Dashboards were created using **Orders, Menu, Restaurant, and Users tables**.  
 
 <p align="center">
