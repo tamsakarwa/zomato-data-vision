@@ -66,7 +66,7 @@ he following steps outline the end-to-end workflow for this project:
 
 - **SQL Queries** : Complex SQL queries are written to extract insights such as sales trends, customer behavior, and product performance across various dimensions.
 
-- **Result Visualization with Tableau** : The query results are connected to Tableau for interactive dashboards and visualizations to effectively communicate key business insights.
+- **Result Visualization ** : The query results are connected to Tableau for interactive dashboards and visualizations to effectively communicate key business insights.
 
 ---
 
