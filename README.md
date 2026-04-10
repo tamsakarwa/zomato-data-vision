@@ -131,7 +131,7 @@ For additional visualizations, such as price groups, restaurants, food items, or
 ## 🛠️ Tech Stack  
 - **PostgreSQL** → Relational database, complex queries  
 - **Python (Pandas, Matplotlib, Seaborn)** → Cleaning & EDA  
-- **Tableau** → BI dashboards & storytelling  
+- **Table** → BI dashboards & storytelling  
 - **Excel** → Raw CSV review & preprocessing  
 
 ---
